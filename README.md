@@ -3,6 +3,8 @@
 
 ### Objective
 
+<img width="887" src="https://user-images.githubusercontent.com/66022630/84583005-84534600-ae2e-11ea-936d-eda6ee176ee9.png">
+
 CNN은 대표적인 Black Box 모형입니다. 영상의 어떤 특징이 모델의 결과를 결정했는지를 알기 어렵습니다. 이러한 모형의 특징은 모델의 결과에 대한 신뢰성에도 악 영향을 미칩니다.
 
 이러한 문제는 다양한 해결책들이 제시되어 왔는데, 대표적으로 Filter Visualization / Grad-CAM / Guided Backpropagation(Guided Grad-CAM)을 보도록 하겠습니다.
